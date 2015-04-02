@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">Profyte</string>
+
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_splash">SplashActivity</string>
+
+    <string name="signup_name">Name</string>
+    <string name="signup_email">Email</string>
+    <string name="signup_password">Password</string>
+    <string name="signup_trade">Trade</string>
+    <string name="signup_occupation">Occupation</string>
+    <string name="signup_city_state">City/State</string>
+    <string name="signup_gender">Gender</string>
+    <string name="signup_birthday">Birthday</string>
+    <string name="signup_school">School</string>
+
+<!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+
+</resources>
